@@ -1,3 +1,5 @@
+This is a website that utilizes Python classes to dynamically populate pages with movie content, including title, poster art and a trailer link
+
 ##Functionality
 
 * Content - Page presents all required content (movie title, poster art, and trailer link)
